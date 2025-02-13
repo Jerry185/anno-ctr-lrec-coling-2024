@@ -5,7 +5,7 @@
 -->
 
 # AnnoCTR Resources
-
+# 用于检测和链接网络威胁报告中的实体、策略和技术的数据集
 This repository contains the companion material for the following publication:
 
 > Lukas Lange, Marc Müller, Ghazaleh Haratinezhad Torbati, Dragan Milchevski, Patrick Grau, Subhash Pujari, Annemarie Friedrich. **AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques in Cyber Threat Reports.** LREC-COLING 2024.
